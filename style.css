@@ -127,26 +127,26 @@ body {
 
 
 .sosial-media {
-    background-color: #5a69a6; /* Warna biru */
-    color: white; /* Warna teks putih */
+    background-color: #5a69a6; 
+    color: white; 
     padding: 15px;
     border-radius: 5px;
     font-weight: bold;
     text-align: left;
     margin-top: 10px;
-    margin-bottom: 20px; /* Menambahkan jarak ke bawah */
+    margin-bottom: 20px; 
 }
 
 .sosial-media a {
-    color: white; /* Warna teks putih */
+    color: white; 
     text-decoration: none;
     font-weight: normal;
-    margin-right: 10px; /* Jarak antar link */
+    margin-right: 10px; 
     display: inline-block;
 }
 
 .sosial-media a:hover {
-    text-decoration: underline; /* Efek hover */
+    text-decoration: underline; 
 }
 
 .tombol-hubungi {
@@ -159,11 +159,11 @@ body {
     font-weight: bold;
     border-radius: 10px;
     text-decoration: none;
-    margin: 30  0px auto; /* Memberi jarak lebih besar ke atas agar tidak terlalu dekat */
+    margin: 30  0px auto; 
 }
 
 .tombol-hubungi:hover {
-    background-color: #0056b3; /* Efek hover */
+    background-color: #0056b3; 
 }
 
 
@@ -171,11 +171,11 @@ body {
 
 
 .kotak-biru {
-    background-color: #007bff; /* Warna biru */
-    color: white; /* Warna teks putih */
-    padding: 15px; /* Padding agar lebih rapi */
-    border-radius: 20px; /* Membuat sudut kotak lebih halus */
-    text-align: center; /* Pusatkan teks */
-    width: 300px; /* Lebar kotak */
-    font-weight: bold; /* Teks tebal */
+    background-color: #007bff; 
+    color: white; 
+    padding: 15px; 
+    border-radius: 20px; /
+    text-align: center; 
+    width: 300px; 
+    font-weight: bold; 
 }
